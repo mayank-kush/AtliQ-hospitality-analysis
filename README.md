@@ -70,4 +70,8 @@ The successful implementation of this project will enable Atliq Grands to:
 - Make informed decisions based on data-driven insights and recommendations.
 - Enhance operational efficiency and customer satisfaction to maintain a competitive edge in the hospitality industry.
 
+### Dashboard:
+
+![Screenshot (110)](https://github.com/mayank-kush/AtliQ-hospitality-analysis/assets/90968440/b5dd5b0f-d5fc-41ce-9aa4-64ba44a0945d)
+
 
